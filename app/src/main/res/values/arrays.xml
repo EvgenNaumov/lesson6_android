@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="семья">
+        <item>евгений</item>
+        <item>лена</item>
+        <item>андрей</item>
+        <item>никита</item>
+    </string-array>
+
+    <integer-array name="famaly_photo">
+        <item>@drawable/jony</item>
+        <item>@drawable/lena</item>
+        <item>@drawable/andre</item>
+    </integer-array>
+
+</resources>
